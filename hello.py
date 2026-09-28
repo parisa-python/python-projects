@@ -36,4 +36,5 @@ while True:
         show_expenses() 
     elif choice == "3":
         break
-    print("Git practice")       
+    print("Git practice") 
+    print("I am learning Git")          
